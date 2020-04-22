@@ -1,5 +1,5 @@
 server {
-        listen 80;
+        listen 8150;
         server_name www.yyy2186.cn yyy2186.cn;
         root /code;
 
